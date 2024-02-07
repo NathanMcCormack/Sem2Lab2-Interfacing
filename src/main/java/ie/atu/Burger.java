@@ -13,16 +13,16 @@ public class Burger implements MenuItem{
 
     @Override
     public String getName() {
-        return null;
+        return name;
     }
 
     @Override
     public double getPrice() {
-        return 0;
+        return price;
     }
 
     @Override
     public String getDescription() {
-        return null;
+        return ingredients;
     }
 }
