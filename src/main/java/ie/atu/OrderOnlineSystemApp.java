@@ -7,7 +7,8 @@ public class OrderOnlineSystemApp {
                 //Add menu items
                 new Burger("Cheese Burger", 10.99, "Cheese, Beef, Tomato"),
                 new Pizza("Pepperoni", 12.99, "Cheese, Pepperoni, Tomato"),
-                new Salad("Caesar Salad", 8.99, "Lettuce, Chicken, Caesar Sauce")
+                new Salad("Caesar Salad", 8.99, "Lettuce, Chicken, Caesar Sauce"),
+                new Desert("Chocolate brownie", 3.99, "Eggs, Flour, Cocoa Powder, Sugar")
         };
 
         //Display details of each menu item
